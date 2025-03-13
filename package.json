@@ -1,0 +1,44 @@
+{
+  "name": "use-gfg",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A React hook to fetch and display complete profile details from Geeks for Geeks. Easily integrate GFG data into your React applications with use-react-gfg.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build:dev": "rollup -c --environment NODE_ENV:development",
+    "build": "rollup -c --environment NODE_ENV:production"
+  },
+  "author": "Kaniska Maity",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bamaCharanChhandogi/use-react-gfg"
+  },
+  "bugs": {
+    "url": "https://github.com/bamaCharanChhandogi/use-react-gfg/issues"
+  },
+  "homepage": "https://github.com/bamaCharanChhandogi/use-react-gfg#readme",
+ "keywords": [
+    "react",
+    "gfg",
+    "geeksforgeeks",
+    "use-react-gfg",
+    "npm-package",
+    "coding-profile-data",
+    "coding-profile",
+    "coding-profile-details",
+    "geeksforgeeks-profile-data",
+    "custom-hooks",
+    "react-hooks",
+    "typescript",
+    "geeksforgeeks-api",
+    "developer-tools",
+    "coding-stats"
+  ],
+  "dependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^4.13.0"
+  }
+}
