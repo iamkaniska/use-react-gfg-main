@@ -1,6 +1,6 @@
 {
   "name": "use-gfg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A React hook to fetch and display complete profile details from Geeks for Geeks. Easily integrate GFG data into your React applications with use-react-gfg.",
   "main": "dist/index.js",
@@ -12,12 +12,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bamaCharanChhandogi/use-react-gfg"
+    "url": "https://github.com/iamkaniska/use-react-gfg-main"
   },
   "bugs": {
-    "url": "https://github.com/bamaCharanChhandogi/use-react-gfg/issues"
+    "url": "https://github.com/iamkaniska/use-react-gfg-main/issues"
   },
-  "homepage": "https://github.com/bamaCharanChhandogi/use-react-gfg#readme",
+  "homepage": "https://github.com/iamkaniska/use-react-gfg-main#readme",
  "keywords": [
     "react",
     "gfg",
